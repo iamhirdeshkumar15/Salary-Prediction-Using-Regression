@@ -23,4 +23,4 @@ The script performs the following tasks:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iamhirdeshkumar15/Salary-Prediction-Using-Regression.git
+   git clone https://github.com/iamhirdeshkumar15/Salary-Prediction-Using-Regression.git 
